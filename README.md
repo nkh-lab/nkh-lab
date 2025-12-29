@@ -1,9 +1,7 @@
-![GitHub stars](https://img.shields.io/github/stars/nkh-lab?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/nkh-lab?style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/nkh-lab?style=flat-square)
+![Followers](https://img.shields.io/github/followers/nkh-lab?style=flat-square)
+![Stars](https://img.shields.io/badge/Total%20Stars-⭐%20see%20below-blue)
 
-![Top language](https://img.shields.io/github/languages/top/nkh-lab?style=flat-square)
-![Languages count](https://img.shields.io/github/languages/count/nkh-lab?style=flat-square)
+![Metrics](https://raw.githubusercontent.com/nkh-lab/nkh-lab/main/github-metrics.svg)
 
 To support projects with coffee and cookies:
 
