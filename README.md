@@ -1,7 +1,7 @@
-![Followers](https://img.shields.io/github/followers/nkh-lab?style=flat-square)
-![Stars](https://img.shields.io/badge/Total%20Stars-⭐%20see%20below-blue)
+Metrics:
+![Stars](https://img.shields.io/github/stars/nkh-lab)
 
-![Metrics](https://raw.githubusercontent.com/nkh-lab/nkh-lab/main/github-metrics.svg)
+![Followers](https://img.shields.io/github/followers/nkh-lab)
 
 To support projects with coffee and cookies:
 
