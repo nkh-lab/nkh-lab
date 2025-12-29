@@ -1,6 +1,9 @@
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nkh-lab&show_icons=true&theme=default)
+![GitHub stars](https://img.shields.io/github/stars/nkh-lab/your-repo?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/nkh-lab/your-repo?style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/nkh-lab?style=flat-square)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkh-lab)
+![Top language](https://img.shields.io/github/languages/top/nkh-lab/your-repo?style=flat-square)
+![Languages count](https://img.shields.io/github/languages/count/nkh-lab/your-repo?style=flat-square)
 
 To support projects with coffee and cookies:
 
